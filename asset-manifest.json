@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c919f4e7.css",
+    "main.js": "/static/js/main.42da7a15.js",
+    "static/media/image1.jpg": "/static/media/image1.cce2b3c1240f3cd4cd68.jpg",
+    "static/media/image4.jpg": "/static/media/image4.a1af356878980edd9819.jpg",
+    "static/media/muhammed sherwan cv.pdf": "/static/media/muhammed sherwan cv.c5a1fc72cb5bee1f4885.pdf",
+    "static/media/image12.png": "/static/media/image12.453638c881c045000127.png",
+    "static/media/image13.png": "/static/media/image13.d232b569ff6ab8643c38.png",
+    "static/media/image14.png": "/static/media/image14.eeace04dd963e050768c.png",
+    "static/media/image15.png": "/static/media/image15.d5aba54327ad30aeb4e0.png",
+    "index.html": "/index.html",
+    "main.c919f4e7.css.map": "/static/css/main.c919f4e7.css.map",
+    "main.42da7a15.js.map": "/static/js/main.42da7a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c919f4e7.css",
+    "static/js/main.42da7a15.js"
+  ]
+}
